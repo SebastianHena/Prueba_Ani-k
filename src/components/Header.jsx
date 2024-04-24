@@ -1,4 +1,3 @@
-// import { BodyProducts } from '../pages/Body.jsx'
 import '../css/App.css'
 
 export const Header = ({ title }) => {
