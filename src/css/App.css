@@ -1,0 +1,39 @@
+.Header {
+    margin-bottom: 1rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Header h1 {
+    margin: 0;
+    display: grid;
+    justify-content: center;
+}
+
+.Routes {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.url {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.url a {
+    font-size: large;
+    text-decoration: none;
+    color: #fff;
+}
+
+.url:hover {
+    color: #333;
+}
