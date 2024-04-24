@@ -6,6 +6,6 @@ dividir la prueba en 3 partes
 
 2- Crear un infinity scroll para los productos Ok
 
-2.1 - al hacer click en el producto mostrar en otra vista el producto
+2.1 - al hacer click en el producto mostrar en otra vista el producto Ok
 
-3- Crear otra interfaz para presentarme
+3- Crear otra interfaz para presentarme Ok
